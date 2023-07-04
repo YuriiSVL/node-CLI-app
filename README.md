@@ -1,6 +1,6 @@
 # node-CLI-app
 
-list-action - https://ibb.co/xzrdkS1
-get-action - https://ibb.co/DDWvm2n
-add-action - https://ibb.co/n7y4f4h
-remove-action - https://ibb.co/MnzH32k
+list-action: https://ibb.co/vqR7GpL
+get-action: https://ibb.co/xXsHMz0
+add-action: https://ibb.co/1vg2bD0
+remove-action: https://ibb.co/tLJ4XRY
